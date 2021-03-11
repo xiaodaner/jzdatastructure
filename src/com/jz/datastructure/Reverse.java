@@ -15,6 +15,7 @@ public class Reverse {
         }
         return rev;
     }
+
     @Test
     public void testReverse(){
         int reverse = reverse(123456);
